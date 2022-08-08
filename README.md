@@ -1,4 +1,4 @@
-# BitPredictor
+# BTC Predictor
 
 ## Technologies Used: LSTMs, Tensorflow, Naïve Forecasting, LSTM, Ensemble Models
 

@@ -1,3 +1,5 @@
+![Project Banner](https://raw.githubusercontent.com/Anmolian/BTC_Predictor/main/Bitcoin.jpg)
+
 # BTC Predictor
 
 ## Technologies Used: LSTMs, Tensorflow, Naïve Forecasting, Ensemble Models
